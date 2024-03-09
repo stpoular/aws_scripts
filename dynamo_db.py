@@ -1,3 +1,5 @@
+# Code adapted from: https://www.coursera.org/learn/developing-applications-in-python-on-aws/
+
 import boto3
 dynamo = boto3.client('dynamodb')
 
